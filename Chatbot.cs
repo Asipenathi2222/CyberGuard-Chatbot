@@ -47,7 +47,7 @@ namespace CybersecurityChatbot
             "expand on that", "elaborate", "more details", "what else", "and?",
             "keep going", "dig deeper", "say more"
         };
-
+//Tell me more about this topic
         // ── Tips rotated after keyword responses ──────────────────────
         private readonly List<string> _tips = new List<string>
         {
