@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 // ResponseHandler is kept for Part 1 console compatibility.
 // The WPF Part 2 GUI uses ChatBot.cs / KeywordResponder.cs instead.
+//Add extra phishing response
 namespace CybersecurityChatbot.Utilities
 {
     public class ResponseHandler
