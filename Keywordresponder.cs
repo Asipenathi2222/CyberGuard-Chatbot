@@ -6,7 +6,7 @@ namespace CybersecurityChatbot
 {
     /// <summary>
     /// KeywordResponder — the main knowledge engine for CyberGuard.
-    ///
+    ///Polish feedback response
     /// Each topic has multiple response variants so the bot never feels
     /// repetitive. <see cref="GetResponse"/> picks a variant at random,
     /// satisfying the Random Responses rubric criterion.
