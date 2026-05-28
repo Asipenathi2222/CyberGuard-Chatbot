@@ -7,6 +7,7 @@ namespace CybersecurityChatbot
     /// <summary>
     /// Sentiment enum representing the emotional tone detected in user input.
     /// </summary>
+    //Improve sentiment detection triggers
     public enum Sentiment
     {
         Neutral,
